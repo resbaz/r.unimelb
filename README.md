@@ -26,10 +26,6 @@ The emphasis of this workshop is to give attendees a strong foundation in the fu
 
 [course material online](TODO: JEREMY LINK)
 
-## Advanced Modules
-- Control Flow (TODO)
-- Functions (TODO)
-
 ## [Making your R-code run faster](https://resbaz.github.io/high-performance-r-course/)
 
 A course explaining how to make your R-Code run faster.
@@ -46,6 +42,13 @@ The Material is divided into two sections
 
   TODO: Beautify Webpage for e-learning self-containment
 
+## Advanced Modules
+- Control Flow (TODO)
+- Functions (TODO)
+
+## Respitch
+
+TODO: Add presentation
 
 # 2. Useful References
 
@@ -55,6 +58,10 @@ The Material is divided into two sections
 
 - [Useful Commands for data analysis](https://resbaz.github.io/R_intro_May/reference.html)
 **TODO Centralise this**
+
+TODO: Add Magazine tips
+
+
 
 
 ## Other Unimelb references (TODO)
