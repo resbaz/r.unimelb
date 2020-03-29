@@ -12,7 +12,7 @@ Are you wondering why you should use R? Have a look at this video to find out wh
 
 # 1. Workshops
 
-## Introduction to R workshop
+## [Introduction to R workshopa relative link](Intro_R_description.md)
 
 The goal of this workshop is to teach novice programmers to write code in R for data analysis. R is a free, open source and cross-platform software for manipulating datasets and producing statistical plots and analyses. R is commonly used in many scientific disciplines for statistical analysis.
 
