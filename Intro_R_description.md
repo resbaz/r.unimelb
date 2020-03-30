@@ -1,5 +1,5 @@
 
-# Introduction to R Workshop via Rstudio: AQF description
+# Introduction to R Workshop via Rstudio: Description
 
 ## 1. Overview
 
@@ -50,8 +50,7 @@ The Introduction to R workshop consists of a 4-hour session followed by a 3-hour
 - **Mode of presentation:** Physical presence with a 5% e-learning video component.
   
 - **Materials**: Participants can follow the [course material online](TODO: JEREMY LINK). Students also have access to a [book](https://nikkirubinstein.gitbooks.io/resguides-introductory-r-workshop/content/content/01-rstudio-intro.html) that explores the concepts introduced in the workshop in more depth.
-  
-- **Dates and Times** :For dates, information and registration in upcoming training, please refer to our [Eventbrite page](http://rescomunimelb.eventbrite.com/)
+
 
 ## 2. Eligibility requirements
 
@@ -84,3 +83,7 @@ TODO: Centralise introduction to programming concepts
 - Participants will be asked to self-assess their progress and understanding of concepts.
 
 - Students are expected to provide feedback to improve the course.
+
+## Dates and Times
+
+For dates, information and registration in upcoming training, please refer to our [Eventbrite page](http://rescomunimelb.eventbrite.com/)
