@@ -84,6 +84,6 @@ TODO: Centralise introduction to programming concepts
 
 - Students are expected to provide feedback to improve the course.
 
-## Dates and Times
+## 4. Dates and Times
 
 For dates, information and registration in upcoming training, please refer to our [Eventbrite page](http://rescomunimelb.eventbrite.com/)
